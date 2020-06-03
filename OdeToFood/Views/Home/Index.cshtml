@@ -1,0 +1,15 @@
+﻿@model OdeToFood.ViewModels.HomeIndexViewModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>All Restaurants</h1>
+
+@foreach (var restaurant in Model.Restaurants)
+{
+    @Html.Partial("_Summary", restaurant)
+
+}
+
+<a class="btn btn-primary" asp-action="Create">Add Restaurant</a>

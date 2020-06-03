@@ -1,0 +1,46 @@
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.deps.json
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.json
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.dev.json
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.dll
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.pdb
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csprojAssemblyReference.cache
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csproj.CoreCompileInputs.cache
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfoInputs.cache
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfo.cs
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.dll
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Module1\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.pdb
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.deps.json
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.json
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.dev.json
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.dll
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.pdb
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csprojAssemblyReference.cache
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csproj.CoreCompileInputs.cache
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfoInputs.cache
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfo.cs
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.dll
+E:\DATC\ProgrammingEmphasis\ITEC 2902 Special Project 2 (ASP.NET Core)\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.pdb
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.deps.json
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.json
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.dev.json
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.dll
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.pdb
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csprojAssemblyReference.cache
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csproj.CoreCompileInputs.cache
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfoInputs.cache
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfo.cs
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.dll
+F:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.pdb
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.deps.json
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.json
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.dev.json
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.dll
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.pdb
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csprojAssemblyReference.cache
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfoInputs.cache
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfo.cs
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.dll
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.pdb
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\appsettings.json
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\package.json
+D:\DATC\ProgrammingEmphasis\ITEC 2902 ASP.Net Core\Courses\Fundamentals\Projects\OdeToFood2\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
